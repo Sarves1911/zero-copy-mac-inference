@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sarvesh/zero-copy-mac/zero-copy-inference/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
