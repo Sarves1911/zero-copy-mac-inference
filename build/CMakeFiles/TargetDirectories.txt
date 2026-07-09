@@ -1,4 +1,0 @@
-/Users/sarvesh/zero-copy-mac/zero-copy-inference/build/CMakeFiles/inference.dir
-/Users/sarvesh/zero-copy-mac/zero-copy-inference/build/CMakeFiles/benchmark.dir
-/Users/sarvesh/zero-copy-mac/zero-copy-inference/build/CMakeFiles/edit_cache.dir
-/Users/sarvesh/zero-copy-mac/zero-copy-inference/build/CMakeFiles/rebuild_cache.dir
